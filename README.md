@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar
 - 👀 I’m interested in ... Listening songs & Natural Photography
-- 🌱 I’m currently learning ... Degreen couse 
+- 🌱 I’m recently completed ... Degreen couse 
 - 📫 How to reach me ... tushartk111@gmail.com
                           https://tushar0106.github.io/Portfolio/
 
