@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar
-- 👀 I’m interested in ... Listening songs & Natural Photography
-- 🌱 I’m recently completed ... Degreen couse 
+- 👨‍💻 Working at Perficient
+- 👀 I’m interested in ... Listening to songs & Natural Photography
 - 📫 How to reach me ... tushartk111@gmail.com
                           https://tushar0106.github.io/Portfolio/
 
