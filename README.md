@@ -23,7 +23,7 @@ Contributed to UI design, application logic, and feature implementation to deliv
 ## 💻 Tech Stack:
 
 ### 🧪 Automation
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft-playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![UI Automation](https://img.shields.io/badge/UI-Automation-blue?style=for-the-badge)
 ![API Automation](https://img.shields.io/badge/API-Automation-orange?style=for-the-badge)
@@ -43,7 +43,7 @@ Contributed to UI design, application logic, and feature implementation to deliv
 
 ### 🚀 DevOps & Tools
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/AzureDevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
