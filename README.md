@@ -6,7 +6,7 @@
 
 SDET | Playwright & Selenium Automation | TypeScript | Java | CI/CD | API Testing | Cucumber | TestNG | Agile
 
-I am a Software Development Engineer in Test (SDET) with 3.10 years of experience in UI and API automation testing for enterprise-level applications.
+I am a Software Development Engineer in Test (SDET) with 4 years of experience in UI and API automation testing for enterprise-level applications.
 
 Currently working as a Technical Consultant at Perficient Inc, delivering high-quality automation solutions for global clients including Ford Motor Company.
 
